@@ -1,0 +1,390 @@
+BODY {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #00ee00;
+        MARGIN-TOP: 10px; BACKGROUND-IMAGE: url(../common/pub_image/beijing.gif); 
+        MARGIN-BOTTOM: 20px
+}
+
+TABLE.white {
+	BACKGROUND-COLOR: #ffffff
+}
+.text {
+	LINE-HEIGHT: 1.5em
+}
+TD {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 150%
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #3333cc; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #3333cc; TEXT-DECORATION: underline
+}
+.ash_link_9 {
+	FONT-SIZE: 9pt; COLOR: #666666; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ash_link_9:link {
+	FONT-SIZE: 9pt; COLOR: #666666; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.ash_link_9:visited {
+	FONT-SIZE: 9pt; COLOR: #666666; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.ash_link_9:active {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ash_link_9:hover {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black9 {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black9:link {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.black9:visited {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.black9:active {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black9:hover {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9 {
+	FONT-SIZE: 9pt; COLOR: #666666; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9:link {
+	FONT-SIZE: 9pt; COLOR: #666666; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9:visited {
+	FONT-SIZE: 9pt; COLOR: #666666; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9:active {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9:hover {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.rose_link_9 {
+	FONT-SIZE: 9pt; COLOR: #ff00cc; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.rose_link_9:link {
+	FONT-SIZE: 9pt; COLOR: #ff00cc; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.rose_link_9:visited {
+	FONT-SIZE: 9pt; COLOR: #ff00cc; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.rose_link_9:active {
+	FONT-SIZE: 9pt; COLOR: #ff00cc; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.rose_link_9:hover {
+	FONT-SIZE: 9pt; COLOR: #ff00cc; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.o_link_9 {
+	FONT-SIZE: 9pt; COLOR: #cc3300; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.o_link_9:link {
+	FONT-SIZE: 9pt; COLOR: #cc3300; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.o_link_9:visited {
+	FONT-SIZE: 9pt; COLOR: #cc3300; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.o_link_9:active {
+	FONT-SIZE: 9pt; COLOR: #ff00cc; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.o_link_9:hover {
+	FONT-SIZE: 9pt; COLOR: #ff00cc; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.white_link_9 {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.white_link_9:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.white_link_9:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.white_link_9:active {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.white_link_9:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.white_link_13:link {
+	FONT-SIZE: 11pt; COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.white_link_13:visited {
+	FONT-SIZE: 11pt; COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.white_link_13:active {
+	FONT-SIZE: 11pt; COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.white_link_13:hover {
+	FONT-SIZE: 11pt; COLOR: #ffffff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black_link_9 {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black_link_9:link {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black_link_9:visited {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black_link_9:active {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.black_link_9:hover {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.red_link_9 {
+	FONT-SIZE: 9pt; COLOR: #e4391b; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.red_link_9:link {
+	FONT-SIZE: 9pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.red_link_9:visited {
+	FONT-SIZE: 9pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.red_link_9:active {
+	FONT-SIZE: 9pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.red_link_9:hover {
+	FONT-SIZE: 9pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.red_12 {
+	FONT-SIZE: 12pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black_12 {
+	FONT-SIZE: 12pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black_11 {
+	FONT-SIZE: 11pt; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.red_7 {
+	FONT-SIZE: 7pt; COLOR: #da0000
+}
+.black_12_more {
+	FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: "黑体"
+}
+.wither_12_more {
+	FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: "黑体"
+}
+.wither_12_more:link {
+	FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: "黑体"; TEXT-DECORATION: none
+}
+.wither_12_more:visited {
+	FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: "黑体"; TEXT-DECORATION: none
+}
+.wither_12_more:active {
+	FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: "黑体"; TEXT-DECORATION: underline
+}
+.wither_12_more:hover {
+	FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: "黑体"; TEXT-DECORATION: underline
+}
+.black_link_10 {
+	FONT-SIZE: 10pt; COLOR: #333333; LINE-HEIGHT: 22px
+}
+.black_link_10:link {
+	FONT-SIZE: 10pt; COLOR: #333333; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.black_link_10:visited {
+	FONT-SIZE: 10pt; COLOR: #333333; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.black_link_10:active {
+	FONT-SIZE: 10pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.black_link_10:hover {
+	FONT-SIZE: 10pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.blacko_link_10 {
+	FONT-SIZE: 10pt; COLOR: #333333; LINE-HEIGHT: 22px
+}
+.blacko_link_10:link {
+	FONT-SIZE: 10pt; COLOR: #333333; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.blacko_link_10:visited {
+	FONT-SIZE: 10pt; COLOR: #333333; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.blacko_link_10:active {
+	FONT-SIZE: 10pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.blacko_link_10:hover {
+	FONT-SIZE: 10pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.bule_link_9 {
+	FONT-SIZE: 9pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.bule_link_9:link {
+	FONT-SIZE: 9pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.bule_link_9:visited {
+	FONT-SIZE: 9pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.bule_link_9:active {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.bule_link_9:hover {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_9 {
+	FONT-SIZE: 9pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_9:link {
+	FONT-SIZE: 9pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_9:visited {
+	FONT-SIZE: 9pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_9:active {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_9:hover {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_9 {
+	FONT-SIZE: 9pt; COLOR: #00509f; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_9:link {
+	FONT-SIZE: 9pt; COLOR: #00509f; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_9:visited {
+	FONT-SIZE: 9pt; COLOR: #00509f; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_9:active {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_9:hover {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_11 {
+	FONT-SIZE: 11pt; COLOR: #00509f; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_11:link {
+	FONT-SIZE: 11pt; COLOR: #00509f; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_11:visited {
+	FONT-SIZE: 11pt; COLOR: #00509f; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_11:active {
+	FONT-SIZE: 11pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo2_link_11:hover {
+	FONT-SIZE: 11pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_12 {
+	FONT-SIZE: 12pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_12:link {
+	FONT-SIZE: 12pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_12:visited {
+	FONT-SIZE: 12pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_12:active {
+	FONT-SIZE: 12pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_link_12:hover {
+	FONT-SIZE: 12pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.buleo_16 {
+	FONT-SIZE: 16pt; COLOR: #0000ff; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.red_9_hua {
+	FONT-SIZE: 9pt; COLOR: #f29b8c; TEXT-DECORATION: line-through
+}
+.red_10 {
+	FONT-SIZE: 10pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.red_11 {
+	FONT-SIZE: 11pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.red_link_10 {
+	FONT-SIZE: 10pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.red_link_10:link {
+	FONT-SIZE: 10pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.red_link_10:visited {
+	FONT-SIZE: 10pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.red_link_10:active {
+	FONT-SIZE: 10pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.red_link_10:hover {
+	FONT-SIZE: 10pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.redo_link_10 {
+	FONT-SIZE: 10pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.redo_link_10:link {
+	FONT-SIZE: 10pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.redo_link_10:visited {
+	FONT-SIZE: 10pt; COLOR: #ff0000; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.redo_link_10:active {
+	FONT-SIZE: 10pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.redo_link_10:hover {
+	FONT-SIZE: 10pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ash_link_9_1 {
+	FONT-SIZE: 9pt; COLOR: #afafaf; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ash_link_9_1:link {
+	FONT-SIZE: 9pt; COLOR: #afafaf; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.ash_link_9_1:visited {
+	FONT-SIZE: 9pt; COLOR: #afafaf; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.ash_link_9_1:active {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.ash_link_9_1:hover {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9_1 {
+	FONT-SIZE: 9pt; COLOR: #afafaf; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9_1:link {
+	FONT-SIZE: 9pt; COLOR: #afafaf; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9_1:visited {
+	FONT-SIZE: 9pt; COLOR: #afafaf; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9_1:active {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.asho_link_9_1:hover {
+	FONT-SIZE: 9pt; COLOR: #ff6633; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.input_text {
+	BORDER-RIGHT: #b2b2b2 1px solid; BORDER-TOP: #b2b2b2 1px solid; FILTER: alpha(Opacity=50); BORDER-LEFT: #b2b2b2 1px solid; BORDER-BOTTOM: #b2b2b2 1px solid
+}
+.style2 {
+	COLOR: #999999
+}
+.style1 {
+	FONT-SIZE: 10pt; COLOR: #666666
+}
+
+.style4 {
+	FONT-SIZE: 9pt; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+
+.tab{float:left; font-size:12px; line-height:1.8}
+.tab li{display:inline;}
+.tab li a{background:url(1.gif) no-repeat;float:left;text-decoration:none;}
+.tab li a span{ display:block; background:url(1.gif) no-repeat; padding:5px 10px 5px 20px;}
+.tab a:link,.tab a:visited{ background-position:right -51px; text-decoration:none}
+.tab a:hover,.tab a:active,.tab a.on,.tab a.on:link,.tab a.on:visited{ background-position:right -162px;}
+.tab a:link span,.tab a:visited span{ background-position:0 0; color:#FFF; text-decoration:none}
+.tab a:hover span,.tab a:active span,.tab a.on span,.tab a.on:link span,.tab a.on:visited span{ background-position:0 -107px; color:#000;}
+.tab .one a:link span,.tab .one a:visited span{ background-position:left -262px; padding-left:30px;}
+.tab .one a:hover span,.tab .one a:active span,.tab .one .on:link span,.tab .one .on:visited span{ background-position:left -212px; padding-left:30px; color:#000}

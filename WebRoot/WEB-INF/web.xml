@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="GBK"?>
+<web-app version="2.4" 
+	xmlns="http://java.sun.com/xml/ns/j2ee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee 
+	http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	
+	
+	<filter>
+		<filter-name>charsetFilter</filter-name>
+		<filter-class>
+			bean.CharsetFilter
+		</filter-class>
+		<init-param>
+			<param-name>charset</param-name>
+			<param-value>gbk</param-value>
+		</init-param>
+	</filter>
+  <servlet>
+    <servlet-name>register</servlet-name>
+    <servlet-class>servlet.register</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Test</servlet-name>
+    <servlet-class>servlet.Test</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Login</servlet-name>
+    <servlet-class>servlet.Login</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>logout</servlet-name>
+    <servlet-class>servlet.logout</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>savetxt</servlet-name>
+    <servlet-class>servlet.savetxt</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>chg_password</servlet-name>
+    <servlet-class>servlet.chg_password</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>chg_cellnum</servlet-name>
+    <servlet-class>servlet.chg_cellnum</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>chg_homenum</servlet-name>
+    <servlet-class>servlet.chg_homenum</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>pingfen</servlet-name>
+    <servlet-class>servlet.pingfen</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>finishregister</servlet-name>
+    <servlet-class>servlet.finishregister</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>neworder</servlet-name>
+    <servlet-class>servlet.neworder</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>checkorder</servlet-name>
+    <servlet-class>servlet.checkorder</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>modifyorder</servlet-name>
+    <servlet-class>servlet.modifyorder</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>checkorderpay</servlet-name>
+    <servlet-class>servlet.checkorderpay</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>grant</servlet-name>
+    <servlet-class>servlet.grant</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>deletxt</servlet-name>
+    <servlet-class>servlet.deletxt</servlet-class>
+  </servlet>
+<servlet>
+    <description>发起支付请求</description>
+    <display-name>发起支付请求</display-name>
+    <servlet-name>PaymentRequest</servlet-name>
+    <servlet-class>cn.itcast.servlet.PaymentRequest</servlet-class>
+  </servlet>
+  <servlet>
+    <description>响应支付结果请求</description>
+    <display-name>响应支付结果请求</display-name>
+    <servlet-name>PaymentResutlResponse</servlet-name>
+    <servlet-class>cn.itcast.servlet.PaymentResutlResponse</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>searchteacher</servlet-name>
+    <servlet-class>servlet.searchteacher</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>searchtxt</servlet-name>
+    <servlet-class>servlet.searchtxt</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>getpass</servlet-name>
+    <servlet-class>servlet.getpass</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>updategonggao</servlet-name>
+    <servlet-class>servlet.updategonggao</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>newfudao</servlet-name>
+    <servlet-class>servlet.newfudao</servlet-class>
+  </servlet>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>register</servlet-name>
+    <url-pattern>/servlet/register.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Test</servlet-name>
+    <url-pattern>/servlet/Test.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Login</servlet-name>
+    <url-pattern>/servlet/Login.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>logout</servlet-name>
+    <url-pattern>/servlet/logout.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>savetxt</servlet-name>
+    <url-pattern>/servlet/savetxt.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>chg_password</servlet-name>
+    <url-pattern>/servlet/chg_password.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>chg_cellnum</servlet-name>
+    <url-pattern>/servlet/chg_cellnum.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>chg_homenum</servlet-name>
+    <url-pattern>/servlet/chg_homenum.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>pingfen</servlet-name>
+    <url-pattern>/servlet/pingfen.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>finishregister</servlet-name>
+    <url-pattern>/servlet/finishregister.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>neworder</servlet-name>
+    <url-pattern>/servlet/neworder.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>checkorder</servlet-name>
+    <url-pattern>/servlet/checkorder.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>modifyorder</servlet-name>
+    <url-pattern>/servlet/modifyorder.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>checkorderpay</servlet-name>
+    <url-pattern>/servlet/checkorderpay.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>grant</servlet-name>
+    <url-pattern>/servlet/grant.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>deletxt</servlet-name>
+    <url-pattern>/servlet/deletxt.html</url-pattern>
+  </servlet-mapping>
+ <servlet-mapping>
+    <servlet-name>PaymentRequest</servlet-name>
+    <url-pattern>/servlet/yeepay/paymentRequest</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PaymentResutlResponse</servlet-name>
+    <url-pattern>/servlet/yeepay/response</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>searchteacher</servlet-name>
+    <url-pattern>/servlet/searchteacher.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>searchtxt</servlet-name>
+    <url-pattern>/servlet/searchtxt.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>getpass</servlet-name>
+    <url-pattern>/servlet/getpass.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>updategonggao</servlet-name>
+    <url-pattern>/servlet/updategonggao.html</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>newfudao</servlet-name>
+    <url-pattern>/servlet/newfudao.html</url-pattern>
+  </servlet-mapping>
+ 
+ 
+ 
+  <welcome-file-list>
+    <welcome-file>150jjw.jsp</welcome-file>
+  </welcome-file-list>
+ 
+</web-app>

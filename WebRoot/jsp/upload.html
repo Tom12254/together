@@ -1,0 +1,65 @@
+<!--    
+    文件名：upload.html    
+ 作  者：王伟    
+-->    
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">    
+<html>    
+<head> 
+ 
+  <style>
+.btn3_mouseout {
+BORDER-RIGHT: #FFE400 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #FFE400 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#C3DAF5); BORDER-LEFT: #FFE400 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #FFE400 1px solid
+}
+.btn3_mouseover {
+BORDER-RIGHT: #2C59AA 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #2C59AA 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#D7E7FA); BORDER-LEFT: #2C59AA 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #2C59AA 1px solid
+}
+.btn3_mousedown
+{
+BORDER-RIGHT: #FFE400 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #FFE400 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#C3DAF5); BORDER-LEFT: #FFE400 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #FFE400 1px solid
+}
+.btn3_mouseup {
+BORDER-RIGHT: #2C59AA 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #2C59AA 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#C3DAF5); BORDER-LEFT: #2C59AA 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #2C59AA 1px solid
+}
+
+</style> 
+</head>    
+    
+<body>    
+ 
+ 您所在的上传文件页面：<br></br>
+<FORM METHOD="POST" ACTION="upload.jsp" ENCTYPE="multipart/form-data">    
+
+  <table width="440" border="0" bgcolor= #eaeaea >    
+    <tr>     
+      <td>1,<input type="FILE" name="FILE1" size="30"> </td>    
+    </tr> 
+    <tr>     
+      <td>描述：<input type="text" name="text1" size="50"></td>    
+    </tr>   
+    <tr>     
+      <td>2,<input type="FILE" name="FILE2" size="30"></td>    
+    </tr>  
+       <tr>     
+      <td>描述：<input type="text" name="text2" size="50"></td>    
+    </tr>
+    <tr>     
+      <td><div >3,<input  type="FILE" name="FILE3" size="30"></td>    
+    </tr>  
+     <tr>     
+      <td>描述：<input type="text" name="text3" size="50"></td>    
+    </tr>  
+    <tr>     
+      <td>4,<input type="FILE" name="FILE4" size="30"></td>    
+    </tr>  
+     <tr>     
+      <td>描述：<input type="text" name="text4" size="50"></td>    
+    </tr>  
+    <tr align="center"><td><input  class=btn3_mouseout onmouseover="this.className='btn3_mouseover'"
+onmouseout="this.className='btn3_mouseout'"
+onmousedown="this.className='btn3_mousedown'"
+onmouseup="this.className='btn3_mouseup'" type="submit" name="Submit" value="确定上传" /></td>    
+    </tr>    
+  </table>    
+</FORM>    
+</body>    
+</html>    

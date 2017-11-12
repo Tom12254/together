@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table name="Admin" schema="dbo">	
+			<column name="Adminuser" />
+	</table>
+	<table name="userinf0" schema="dbo" catalog="myData"
+		class="userinf0">
+		<primary-key>
+			<generator class="assigned"></generator>
+		</primary-key>
+		<column name="id" />
+	</table>
+	<table name="adminuser" schema="dbo" class="adminuser"
+		catalog="myData">
+		<primary-key>
+			<generator class="assigned"></generator>
+		</primary-key>
+	</table>
+	<table name="userinf1" schema="dbo" class="userinf1"
+		catalog="myData">
+		<primary-key>
+			<generator class="assigned"></generator>
+		</primary-key>
+	</table>
+	<table name="order" schema="dbo" class="order" catalog="myData">
+		<primary-key>
+			<generator class="assigned"></generator>
+		</primary-key>
+	</table>
+	<table name="appreciation" schema="dbo" class="appreciation"
+		catalog="myData">
+		<primary-key>
+			<generator class="assigned"></generator>
+		</primary-key>
+	</table>
+	<table name="myorder" schema="dbo" class="myorder"
+		catalog="myData">
+		<primary-key>
+			<generator class="assigned"></generator>
+		</primary-key>
+	</table>
+	<table name="text" schema="dbo" class="text" catalog="myData">
+		<primary-key>
+			<generator class="assigned"></generator>
+		</primary-key>
+	</table>
+	<table name="upload" schema="dbo" class="upload" catalog="myData">
+		<primary-key>
+			<generator class="assigned"></generator>
+		</primary-key>
+	</table>
+<table name="fudao" schema="dbo" class="fudao" catalog="myData">
+	<primary-key>
+		<generator class="fudao"></generator>
+	</primary-key>
+</table>
+</hibernate-reverse-engineering>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<university>
+   <college label="学前教育">
+       <department label="学前英语"/>
+       <department label="绘画辅导"/>
+       <department label="看图识字"/>
+       <department label="音乐气息"/>
+       <department label="认知事物"/>
+   </college>
+   <college label="小学教育">
+       <department label="小学数学"/>
+       <department label="小学语文"/>
+       <department label="小学英语"/>
+   </college>
+   <college label="初中教育">
+       <department label="初一数学"/>
+       <department label="初二数学"/>
+       <department label="初三数学"/>
+       <department label="初一语文"/>
+       <department label="初二语文"/>
+       <department label="初三语文"/>
+       <department label="初一英语"/>
+       <department label="初二英语"/>
+       <department label="初三英语"/>
+       <department label="初二物理"/>
+       <department label="初三物理"/>
+       <department label="初三化学"/>
+       <department label="中考历史"/>
+       <department label="中考政治"/>
+       <department label="中考地理"/>
+       <department label="中考生物"/>
+   </college>
+   <college label="高中教育">
+       <department label="高一数学"/>
+       <department label="高二数学"/>
+       <department label="高三数学"/>
+       <department label="高一语文"/>
+       <department label="高二语文"/>
+       <department label="高三语文"/>
+       <department label="高一英语"/>
+       <department label="高二英语"/>
+       <department label="高三英语"/>
+       <department label="高一物理"/>
+       <department label="高二物理"/>
+       <department label="高三物理"/>
+       <department label="高一化学"/>
+       <department label="高二化学"/>
+       <department label="高三化学"/>
+       <department label="高考历史"/>
+       <department label="高考政治"/>
+       <department label="高考地理"/>
+       <department label="高考生物"/>
+       <department label="高考心理辅导"/>
+   </college>
+   
+   <college label="音乐舞蹈">
+       <department label="小提琴"/>
+       <department label="钢琴教学"/>
+       <department label="笛子管乐"/>
+       <department label="其他乐器"/>
+       <department label="传统舞蹈"/>
+       <department label="西方舞蹈"/>
+   </college>
+   <college label="棋牌竞技">
+       <department label="国际象棋"/>
+       <department label="中国象棋"/>
+       <department label="围棋讲解"/>
+       <department label="中国武术"/>
+       <department label="其他项目"/>
+   </college>
+   <college label="竞赛辅导">
+       <department label="小学奥数"/>
+       <department label="初中奥数"/>
+       <department label="初中奥物"/>
+       <department label="初中奥化"/>
+       <department label="高中奥数"/>
+       <department label="高中奥物"/>
+       <department label="高中奥化"/>
+   </college>
+   <college label="其他类别">
+       <department label="摄影艺术"/>
+       <department label="计算机操作"/>
+       <department label="小外语种"/>
+   
+   </college>
+   <aera label="区域选择">
+       <region label="江岸区"/>
+       <region label="江汉区"/>
+       <region label="桥口区"/>
+       <region label="汉阳区"/>
+       <region label="武昌区"/>
+       <region label="青山区"/>
+       <region label="洪山区"/>
+       <region label="蔡甸区"/>
+       <region label="江夏区"/>
+       <region label="黄陂区"/>
+       <region label="新洲区"/>
+       <region label="东西湖区"/>
+       <region label="汉南区"/>
+       <region label="东湖开发区"/>
+       <region label="武汉开发区"/>
+   </aera>
+</university>
