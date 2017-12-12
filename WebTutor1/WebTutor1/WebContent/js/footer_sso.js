@@ -1,0 +1,20 @@
+<!-- Hide
+document.write("<table width=750 height=9 border=0 cellpadding=0 cellspacing=0>"
++"<tr><td width=1 class=bg02></td><td width=748 class=bg01></td><td width=1 class=bg02></td>"
++"</tr></table>"
++"<table width=750 height=1 border=0 cellpadding=0 cellspacing=0>"
++"<tr><td class=bg02></td>"
++"</tr></table><br>"
++"<table width=750 height=40 border=0 cellpadding=0 cellspacing=2 style='font-size:12px'>"
++"<tr><td height=1 bgcolor=#999999></td></tr>"
++"<tr><td align=center>"
++"<a href=http://tech.sina.com.cn/sinahelp/2003-10-28/113/314.html target=_blank>150分家教网客户服务联系电话</a>:02799999999&nbsp;"
++"客服邮箱：<a href=mailto:150jjw@sina.com.cn>150jjw@sina.com.cn</a>"
++"</td></tr></table>"
++"<p><center style='font-size:12px'><a href=http://corp.sina.com.cn/chn/>150jjw介绍</a> | "
++"<a href=http://corp.sina.com.cn/eng/>About 15jjw</a> | "
++"<a href=http://ads.sina.com.cn/>广告服务</a> | "
++"<p>Copyright &copy; 1996 - 2008 150jjw Corporation, All Rights Reserved<br><br>150jjw "
++"<a href=jsp/copyright.shtml target=_blank>版权所有</a>"
++"</center>");
+//End -->

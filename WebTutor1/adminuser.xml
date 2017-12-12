@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * FROM webtutor.adminuser
+LIMIT 0, 1000
+"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="username">Andy</field>
+		<field name="secretkey">654275</field>
+		<field name="email">andy@qq.com</field>
+		<field name="phonenum">2359864</field>
+	</row>
+
+	<row>
+		<field name="username">Tomas</field>
+		<field name="secretkey">942510</field>
+		<field name="email">htoma@qq.com</field>
+		<field name="phonenum">13524621542</field>
+	</row>
+
+	<row>
+		<field name="username">刘志</field>
+		<field name="secretkey">10231</field>
+		<field name="email">wudi@qq.com</field>
+		<field name="phonenum">3025120</field>
+	</row>
+
+	<row>
+		<field name="username">司马瑞</field>
+		<field name="secretkey">301201</field>
+		<field name="email">5248564@qq.com</field>
+		<field name="phonenum">15845632102</field>
+	</row>
+
+	<row>
+		<field name="username">孙佺</field>
+		<field name="secretkey">302514</field>
+		<field name="email">aqun@qq.com</field>
+		<field name="phonenum">1521203645</field>
+	</row>
+
+	<row>
+		<field name="username">张菲</field>
+		<field name="secretkey">feifei122</field>
+		<field name="email">zhang@qq.com</field>
+		<field name="phonenum">2413251</field>
+	</row>
+
+	<row>
+		<field name="username">曹梦德</field>
+		<field name="secretkey">197584</field>
+		<field name="email">caowei@qq.com</field>
+		<field name="phonenum">13251242536</field>
+	</row>
+
+	<row>
+		<field name="username">朱有检</field>
+		<field name="secretkey">1644</field>
+		<field name="email">chongzhen@qq.com</field>
+		<field name="phonenum">13021021425</field>
+	</row>
+
+	<row>
+		<field name="username">李世明</field>
+		<field name="secretkey">ming101</field>
+		<field name="email">mingming@qq.com</field>
+		<field name="phonenum">2302102</field>
+	</row>
+
+	<row>
+		<field name="username">王彦明</field>
+		<field name="secretkey">wym1654</field>
+		<field name="email">wymlala@qq.com</field>
+		<field name="phonenum">2014523</field>
+	</row>
+
+	<row>
+		<field name="username">赵真</field>
+		<field name="secretkey">zhaozhen123</field>
+		<field name="email">zhaozhen123@qq.com</field>
+		<field name="phonenum">2100120</field>
+	</row>
+</resultset>

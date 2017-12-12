@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * FROM webtutor.ordinaryuser0
+LIMIT 0, 1000
+"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="username">z</field>
+		<field name="email">10</field>
+		<field name="IDcardnum">1</field>
+		<field name="QQnum">1a</field>
+		<field name="loadsecret">1</field>
+		<field name="phonenum">1</field>
+	</row>
+
+	<row>
+		<field name="username">z</field>
+		<field name="email">11</field>
+		<field name="IDcardnum">13</field>
+		<field name="QQnum">12</field>
+		<field name="loadsecret">2</field>
+		<field name="phonenum">132</field>
+	</row>
+
+	<row>
+		<field name="username">刘家远</field>
+		<field name="email">yuanaa@qq.com</field>
+		<field name="IDcardnum">341025198512312503</field>
+		<field name="QQnum">320145555</field>
+		<field name="loadsecret">polk11</field>
+		<field name="phonenum">2365225</field>
+	</row>
+
+	<row>
+		<field name="username">卢少夫</field>
+		<field name="email">shaofu123@qq.com</field>
+		<field name="IDcardnum">10320119740805164X</field>
+		<field name="QQnum">1645214222</field>
+		<field name="loadsecret">64a254</field>
+		<field name="phonenum">17965425812</field>
+	</row>
+
+	<row>
+		<field name="username">吴雨劫</field>
+		<field name="email">123@qq.com</field>
+		<field name="IDcardnum">350627199901010001</field>
+		<field name="QQnum">1111111</field>
+		<field name="loadsecret">wjy123</field>
+		<field name="phonenum">18888888888</field>
+	</row>
+
+	<row>
+		<field name="username">周伟</field>
+		<field name="email">1325442@qq.com</field>
+		<field name="IDcardnum">102584199503062666</field>
+		<field name="QQnum">1325442</field>
+		<field name="loadsecret">562365</field>
+		<field name="phonenum">13323131323</field>
+	</row>
+
+	<row>
+		<field name="username">宋玉泉</field>
+		<field name="email">1326523654@qq.com</field>
+		<field name="IDcardnum">103202200102074887</field>
+		<field name="QQnum">1233623871</field>
+		<field name="loadsecret">yuyu1quan</field>
+		<field name="phonenum">13020336236</field>
+	</row>
+
+	<row>
+		<field name="username">康泰</field>
+		<field name="email">14523652@qq.com</field>
+		<field name="IDcardnum">103695199805196262</field>
+		<field name="QQnum">14523652</field>
+		<field name="loadsecret">114253</field>
+		<field name="phonenum">13423665665</field>
+	</row>
+
+	<row>
+		<field name="username">张梦婷</field>
+		<field name="email">mengtong@qq.com</field>
+		<field name="IDcardnum">102032199908080505</field>
+		<field name="QQnum">46236625</field>
+		<field name="loadsecret">031021</field>
+		<field name="phonenum">13625002032</field>
+	</row>
+
+	<row>
+		<field name="username">晏畿道</field>
+		<field name="email">dao111@qq.com</field>
+		<field name="IDcardnum">230102198410215412</field>
+		<field name="QQnum">3265012</field>
+		<field name="loadsecret">dao123</field>
+		<field name="phonenum">15236542352</field>
+	</row>
+
+	<row>
+		<field name="username">李嗣德</field>
+		<field name="email">side123@qq.com</field>
+		<field name="IDcardnum">132302199405060203</field>
+		<field name="QQnum">1422125587</field>
+		<field name="loadsecret">142536</field>
+		<field name="phonenum">13707889999</field>
+	</row>
+
+	<row>
+		<field name="username">王刚时</field>
+		<field name="email">shiqi@qq.com</field>
+		<field name="IDcardnum">13020403121745</field>
+		<field name="QQnum">1745236984</field>
+		<field name="loadsecret">aks34js</field>
+		<field name="phonenum">13654220011</field>
+	</row>
+
+	<row>
+		<field name="username">苏武穆</field>
+		<field name="email">muyang@qq.com</field>
+		<field name="IDcardnum">230104195801025120</field>
+		<field name="QQnum">3012012</field>
+		<field name="loadsecret">120120</field>
+		<field name="phonenum">2410120</field>
+	</row>
+
+	<row>
+		<field name="username">陆佑</field>
+		<field name="email">you12@qq.com</field>
+		<field name="IDcardnum">230105198405127543</field>
+		<field name="QQnum">1203512064</field>
+		<field name="loadsecret">8475112</field>
+		<field name="phonenum">2055421</field>
+	</row>
+
+	<row>
+		<field name="username">陶渊名</field>
+		<field name="email">cai12ju@qq.com</field>
+		<field name="IDcardnum">230301195409143651</field>
+		<field name="QQnum">95423610</field>
+		<field name="loadsecret">aiqj109</field>
+		<field name="phonenum">13845625210</field>
+	</row>
+
+	<row>
+		<field name="username">韩宇</field>
+		<field name="email">han@qq.com</field>
+		<field name="IDcardnum">23010119940504321X</field>
+		<field name="QQnum">103201232</field>
+		<field name="loadsecret">yuyu123</field>
+		<field name="phonenum">13021023021</field>
+	</row>
+
+	<row>
+		<field name="username">高一文</field>
+		<field name="email">gaowen@qq.com</field>
+		<field name="IDcardnum">320202199906265552</field>
+		<field name="QQnum">1236651236</field>
+		<field name="loadsecret">wen123a</field>
+		<field name="phonenum">15996336230</field>
+	</row>
+
+	<row>
+		<field name="username">高斯</field>
+		<field name="email">gaosi@qq.com</field>
+		<field name="IDcardnum">230102196502031534</field>
+		<field name="QQnum">301201452</field>
+		<field name="loadsecret">135206</field>
+		<field name="phonenum">13954251000</field>
+	</row>
+
+	<row>
+		<field name="username">黄亭坚</field>
+		<field name="email">1121@qq.com</field>
+		<field name="IDcardnum">230101199504125552</field>
+		<field name="QQnum">100323512</field>
+		<field name="loadsecret">10000</field>
+		<field name="phonenum">2010210</field>
+	</row>
+</resultset>

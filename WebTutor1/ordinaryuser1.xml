@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * FROM webtutor.ordinaryuser1
+LIMIT 0, 1000
+"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="username">a</field>
+		<field name="IDcardnum">a</field>
+		<field name="loadsecret">1</field>
+		<field name="sex">a</field>
+		<field name="region">a</field>
+		<field name="score">null</field>
+		<field name="email">a</field>
+		<field name="phonenum">a</field>
+		<field name="QQnum">a</field>
+	</row>
+
+	<row>
+		<field name="username">x</field>
+		<field name="IDcardnum">1</field>
+		<field name="loadsecret">1</field>
+		<field name="sex">男</field>
+		<field name="region">南岗区</field>
+		<field name="score">null</field>
+		<field name="email">1</field>
+		<field name="phonenum">1</field>
+		<field name="QQnum">1</field>
+	</row>
+
+	<row>
+		<field name="username">吴安</field>
+		<field name="IDcardnum">103265198406259498</field>
+		<field name="loadsecret">195636</field>
+		<field name="sex">女</field>
+		<field name="region">道里区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">5415241@qq.com</field>
+		<field name="phonenum">2012845</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">孙佳欣</field>
+		<field name="IDcardnum">152402195503061588</field>
+		<field name="loadsecret">00000</field>
+		<field name="sex">女</field>
+		<field name="region">道里区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">779109194@qq.com</field>
+		<field name="phonenum">2541441</field>
+		<field name="QQnum">1035239968</field>
+	</row>
+
+	<row>
+		<field name="username">孟强</field>
+		<field name="IDcardnum">230105197412120355</field>
+		<field name="loadsecret">10000</field>
+		<field name="sex">男</field>
+		<field name="region">南岗区</field>
+		<field name="score">null</field>
+		<field name="email">1633251527@qq.com</field>
+		<field name="phonenum">13956967774</field>
+		<field name="QQnum">136254985</field>
+	</row>
+
+	<row>
+		<field name="username">张宇</field>
+		<field name="IDcardnum">230504197809069599</field>
+		<field name="loadsecret">zhangyu</field>
+		<field name="sex">男</field>
+		<field name="region">南岗区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">698541321@qq.com</field>
+		<field name="phonenum">2410655</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">张怡</field>
+		<field name="IDcardnum">230503198405026363</field>
+		<field name="loadsecret">362503</field>
+		<field name="sex">男</field>
+		<field name="region">道里区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">7856965948@qq.com</field>
+		<field name="phonenum">2095666</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">张韶涵</field>
+		<field name="IDcardnum">321020195402023622</field>
+		<field name="loadsecret">hanhan32</field>
+		<field name="sex">女</field>
+		<field name="region">南岗区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">1330562546@qq.com</field>
+		<field name="phonenum">13584626262</field>
+		<field name="QQnum">945184562</field>
+	</row>
+
+	<row>
+		<field name="username">李安</field>
+		<field name="IDcardnum">230301199909091656</field>
+		<field name="loadsecret">aj12</field>
+		<field name="sex">男</field>
+		<field name="region">道外区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">241555487@qq.com</field>
+		<field name="phonenum">13298956995</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">李尔雅</field>
+		<field name="IDcardnum">320212198606031221</field>
+		<field name="loadsecret">yaya123</field>
+		<field name="sex">女</field>
+		<field name="region">南岗区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">969693625@qq.com</field>
+		<field name="phonenum">15984584869</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">李晓明</field>
+		<field name="IDcardnum">120541198806041321</field>
+		<field name="loadsecret">098011</field>
+		<field name="sex">男</field>
+		<field name="region">道外区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">lxmlxm@qq.com</field>
+		<field name="phonenum">13062956241</field>
+		<field name="QQnum">1021987856</field>
+	</row>
+
+	<row>
+		<field name="username">李艳</field>
+		<field name="IDcardnum">120252198709296222</field>
+		<field name="loadsecret">142000</field>
+		<field name="sex">女</field>
+		<field name="region">松北区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">9989986598@qq.com</field>
+		<field name="phonenum">13525268485</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">杜野老</field>
+		<field name="IDcardnum">320125199811021421</field>
+		<field name="loadsecret">shisheng</field>
+		<field name="sex">男</field>
+		<field name="region">道外区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">779109194@qq.com</field>
+		<field name="phonenum">13012023652</field>
+		<field name="QQnum">5213021</field>
+	</row>
+
+	<row>
+		<field name="username">林则许</field>
+		<field name="IDcardnum">100021196501036451</field>
+		<field name="loadsecret">523310</field>
+		<field name="sex">男</field>
+		<field name="region">松北区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">1330562546@qq.com</field>
+		<field name="phonenum">2300100</field>
+		<field name="QQnum">3205187452</field>
+	</row>
+
+	<row>
+		<field name="username">武者天</field>
+		<field name="IDcardnum">100203200104041522</field>
+		<field name="loadsecret">1234</field>
+		<field name="sex">女</field>
+		<field name="region">道里区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">nvhuang@qq.com</field>
+		<field name="phonenum">2301714</field>
+		<field name="QQnum">9562310</field>
+	</row>
+
+	<row>
+		<field name="username">汤姆</field>
+		<field name="IDcardnum">302102195410012015</field>
+		<field name="loadsecret">hello123</field>
+		<field name="sex">男</field>
+		<field name="region">南岗区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">ediso@qq.com</field>
+		<field name="phonenum">2103214</field>
+		<field name="QQnum">1203214</field>
+	</row>
+
+	<row>
+		<field name="username">王宇博</field>
+		<field name="IDcardnum">323652197408196599</field>
+		<field name="loadsecret">aaa11</field>
+		<field name="sex">女</field>
+		<field name="region">道外区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">1320252525@qq.com</field>
+		<field name="phonenum">13323656669</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">王艺霖</field>
+		<field name="IDcardnum">23010502030301</field>
+		<field name="loadsecret">451236</field>
+		<field name="sex">女</field>
+		<field name="region">道里区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">3210202@qq.com</field>
+		<field name="phonenum">2100325</field>
+		<field name="QQnum">956698477</field>
+	</row>
+
+	<row>
+		<field name="username">王雅虎</field>
+		<field name="IDcardnum">103201195608041523</field>
+		<field name="loadsecret">201362</field>
+		<field name="sex">女</field>
+		<field name="region">道里区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">yahu@qq.com</field>
+		<field name="phonenum">13603875495</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">苏时</field>
+		<field name="IDcardnum">1000199907040202</field>
+		<field name="loadsecret">00000</field>
+		<field name="sex">男</field>
+		<field name="region">南岗区</field>
+		<field name="score">null</field>
+		<field name="email">1963290585@qq.com</field>
+		<field name="phonenum">2013542</field>
+		<field name="QQnum">0011</field>
+	</row>
+
+	<row>
+		<field name="username">蓝雨卓</field>
+		<field name="IDcardnum">230105196802065565</field>
+		<field name="loadsecret">136222</field>
+		<field name="sex">男</field>
+		<field name="region">道外区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">13625236958@qq.com</field>
+		<field name="phonenum">2302051</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">郑仞</field>
+		<field name="IDcardnum">352103198802093622</field>
+		<field name="loadsecret">163254</field>
+		<field name="sex">女</field>
+		<field name="region">松北区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">1423651425@qq.com</field>
+		<field name="phonenum">13989698744</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">郑雪玉</field>
+		<field name="IDcardnum">103203197702069569</field>
+		<field name="loadsecret">1365231</field>
+		<field name="sex">女</field>
+		<field name="region">南岗区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">xueyu@qq.com</field>
+		<field name="phonenum">13988983662</field>
+		<field name="QQnum" xsi:nil="true" />
+	</row>
+
+	<row>
+		<field name="username">陆逊</field>
+		<field name="IDcardnum">230102193210201995</field>
+		<field name="loadsecret">xunge11</field>
+		<field name="sex">男</field>
+		<field name="region">松北区</field>
+		<field name="score" xsi:nil="true" />
+		<field name="email">xunxun@qq.com</field>
+		<field name="phonenum">13202038456</field>
+		<field name="QQnum">3265122742</field>
+	</row>
+</resultset>

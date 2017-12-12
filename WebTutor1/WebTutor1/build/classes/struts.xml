@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+   "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+   "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+<constant name="struts.devMode" value="true" />
+<constant name="struts.i18n.encoding" value="utf-8"/>
+   <package name="WebTutor1" namespace="/" extends="struts-default">
+      <action name="query" class="adminuser.Abstractadminuser" method="execute">
+            <result name="success">/adminstor.jsp</result>
+            <result name="error">/Fail2.jsp</result>
+      </action>
+      <action name="user0login" class="ordinaryuser0.Abstractuser0" method="execute">
+            <result name="success">/student.edge.jsp</result>
+            <result name="error">/Fail.jsp</result>
+      </action>
+      <action name="user1login" class="ordinaryuser1.Abstractuser1" method="execute">
+            <result name="success">/teacher.edge.jsp</result>
+            <result name="error">/Fail1.jsp</result>
+      </action>
+      <action name="adduser" class="adminuser.Abstractadminuser" method="addadminuser">
+            <result>/adminstor.login.jsp</result>
+      </action>
+      <action name="adduser0" class="ordinaryuser0.Abstractuser0" method="addordinaryuser0">
+            <result>/student.login.jsp</result>
+      </action>
+      <action name="adduser1" class="ordinaryuser1.Abstractuser1" method="addordinaryuser1">
+            <result>/teacher.login.jsp</result>
+      </action>
+      <action name="deletead" class = "adminuser.Abstractadminuser" method="deletead">
+			<result>/addelete.jsp</result>
+	  </action>
+      <action name="deleteuser0" class = "adminuser.Abstractadminuser" method="deleteuser0">
+			<result>/studentdelete.jsp</result>
+	  </action>
+	  <action name="deleteuser1" class = "adminuser.Abstractadminuser" method="deleteuser1">
+			<result>/teacherdelete.jsp</result>
+	  </action>
+      <action name="home">
+      		<result>/index.jsp</result>
+      </action>
+      <action name="updateteacher" class = "adminuser.Abstractadminuser" method="preupdate">
+      		<result>/teacher.changeINa.jsp</result>
+      </action>
+      <action name="updateadminstor" class = "adminuser.Abstractadminuser" method="preupdate">
+      		<result>/adminstor.change.jsp</result>
+      </action>
+      <action name="updatestudent" class = "adminuser.Abstractadminuser" method="preupdate">
+      		<result>/studentchangeINa.jsp</result>
+      </action>
+      <action name="stuinf" class="ordinaryuser0.Abstractuser0" method="update">
+            <result >/studentchangeIN.jsp</result>
+      </action>
+       <action name="stuinfcha" class="ordinaryuser0.Abstractuser0" method="update">
+            <result >/student.edge.jsp</result>
+      </action>
+       <action name="teainfcha" class="ordinaryuser1.Abstractuser1" method="update">
+            <result>/teacher.edge.jsp</result>
+      </action>
+       <action name="teacher.class" class="ordinaryuser1.Abstractuser1" method="addordinaryuser1">
+            <result>/teacher.class.jsp</result>
+      </action>
+      <action name="teainf" class="ordinaryuser1.Abstractuser1" method="update">
+            <result >/teacher.changeIN.jsp</result>
+      </action>
+      <action name="coursech" class="project.subjectchooce" method="searchproject">
+            <result name="success">/s_coursequ.jsp</result>
+      </action>
+      <action name="coursema" class="project.subjectchooce" method="execute_student">
+            <result name="success">/s_coursema.jsp</result>
+      </action>
+       <action name="teacourseadd" class="project.subjectchooce" method="addproject">
+            <result name="success">/t_courseadd.jsp</result>
+      </action>
+      <action name="t_addsuccess" class="project.subjectchooce" method="returnindex">
+            <result name="success">/teacher.edge.jsp</result>
+      </action>
+        <action name="s_addsuccess" class="project.subjectchooce" method="returnindex0">
+            <result name="success">/student.edge.jsp</result>
+      </action>
+      <action name="teacoursema" class="project.subjectchooce" method="execute_teacher">
+            <result name="success">/t_coursema.jsp</result>
+      </action>
+      <action name="stuchoose" class="ordinaryuser0.Abstractuser0" method="update">
+            <result name="success">/student.choose.jsp</result>
+      </action>
+      <action name="coursepush" class="project.subjectchooce" method="addproject">
+            <result name="success">/teachersuccess.jsp</result>
+      </action>
+      <action name="s_coursech" class="project.subjectchooce" method="s_coursechoose">
+      		<result name="success">/choosesuccess.jsp</result>
+      </action>
+      <action name="t_submit" class="project.subjectchooce" method="t_coursemanage">
+      		<result name="success">/teachersuccess.jsp</result>
+      </action>
+      <action name="evalute" class="mail.mailsender" method="execute">
+            <result >/success.jsp</result>
+      </action>
+   </package>
+</struts>
